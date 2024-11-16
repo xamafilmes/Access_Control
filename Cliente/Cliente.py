@@ -1,3 +1,9 @@
+"""
+1) Ler as informações fornecidas pelo usuário (pelo teclado) e pedir os dados necessários.
+2) Enviar estes dados para o servidor;
+3) Receber as informações de autorização do servidor e;
+4) Imprimir (na tela) a resposta do servidor
+"""
 
 
 import socket 
